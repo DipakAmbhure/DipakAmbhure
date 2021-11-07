@@ -7,4 +7,4 @@
 
 <br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dipakambhure&show_icons=true&locale=en" alt="dipakambhure" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dipakambhure&show_icons=true&locale=en" style="background-color:black; color:white" alt="dipakambhure" /></p>
