@@ -15,8 +15,8 @@
 
 #### 🧑‍ I'm Dipak ! 
 #### 🎓 CSE 2023 Undergrad @[COEP](https://www.coep.org.in).
-<!-- ![Visitor Count](https://profile-counter.glitch.me/{pathadeTush}/count.svg) -->
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=pathadeTush.pathadeTush)
+<!-- ![Visitor Count](https://profile-counter.glitch.me/{DipakAmbhure}/count.svg) -->
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=DipakAmbhure.DipakAmbhure)
 
 📛 Programming Languages, Databases and Tools I'm comfortable with: <br>
 
@@ -40,9 +40,9 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:dipakambhure2001@gmail.com)
 [![gitlab](https://img.shields.io/badge/GitLab-330F63?style=flat&logo=gitlab&logoColor=white)](https://gitlab.com/DipakAmbhure)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DipakAmbhure)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dipakambhure)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Tushar's github stats](https://github-readme-stats.vercel.app/api?username=DipakAmbhure&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
+[![Dipak's github stats](https://github-readme-stats.vercel.app/api?username=dipakambhure&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
 
 Here are some ideas to get you started:
 
