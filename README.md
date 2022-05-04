@@ -1,15 +1,3 @@
-<h1 align="center">Hello 👋, I'm Dipak Ambhure</h1>
-<h3 align="center">Studying Computer Engineering From <a href="https://www.coep.org.in" >College of Engineering Pune</a></h3>
-
-- 📫 How to reach me **dipakambhure2001@gmail.com**
-- - 📫 How to reach me **ambhuredp19.comp@coep.ac.in**
-
-
-<br>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dipakambhure&show_icons=true&locale=en" style="background-color:black; color:white" alt="dipakambhure" /></p>
-
-
 
 ### Hi there <img src="https://user-images.githubusercontent.com/69508845/148013043-e04eb0ce-8326-436e-b22c-db521fda4803.gif" width="30px" height="25px">
 
@@ -46,7 +34,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+<- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
