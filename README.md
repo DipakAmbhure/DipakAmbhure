@@ -2,7 +2,7 @@
 ### Hi there <img src="https://user-images.githubusercontent.com/69508845/148013043-e04eb0ce-8326-436e-b22c-db521fda4803.gif" width="30px" height="25px">
 
 #### 🧑‍ I'm Dipak ! 
-#### 🎓 CSE 2023 Undergrad @[COEP](https://www.coep.org.in).
+#### 🎓 CSE 2023 Undergraduate @[COEP](https://www.coep.org.in).
 <!-- ![Visitor Count](https://profile-counter.glitch.me/{DipakAmbhure}/count.svg) -->
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=DipakAmbhure.DipakAmbhure)
 
